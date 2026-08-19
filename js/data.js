@@ -30,9 +30,8 @@ window.SK_WORKS = [
     kind: 'REEL',
     year: '2026',
     meta: 'REEL · 50K PLAYS · INSTAGRAM',
-    img: 'assets/works/DWx_-r9ESDo.jpg',
-    vid: 'assets/reels/DWx_-r9ESDo.mp4',
-    link: 'https://www.instagram.com/reel/DWx_-r9ESDo/',
+    img: 'js/Screenshot_2026-08-20-05-20-55-83_1c337646f29875672b5a61192b9010f9.jpg',
+    vid: 'js/VID_20260622_201222.mp4',
     vertical: false
   },
   {
