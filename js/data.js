@@ -41,9 +41,8 @@ window.SK_WORKS = [
     kind: 'REEL',
     year: '2025',
     meta: 'REEL · 33K PLAYS · INSTAGRAM',
-    img: 'assets/works/DLFf20JTonw.jpg',
-    vid: 'assets/reels/DLFf20JTonw.mp4',
-    link: 'https://www.instagram.com/reel/DLFf20JTonw/',
+    img: 'js/Screenshot_2026-08-20-05-44-45-13_8b1cfbb769bd52fc36fa25a4fcc64305.jpg',
+    vid: 'js/VID_20260616_235055.mp4',
     vertical: false
   },
   {
