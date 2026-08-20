@@ -333,7 +333,7 @@ kbd{font-family:var(--f-vcr);font-size:.8rem;border:1px solid currentColor;opaci
      `cqw` and not `vw`: if the stage ever stops being exactly the viewport,
      the type still scales with the composition instead of drifting out of it. */
 
-  /* 01 front — one word, "shutterkif.", sitting under the dice.
+  /* 01 front — one word, "rachit.T.", sitting under the dice.
      The two halves are separate elements and always will be (the copy is
      frozen), so they are butted against the stage's centre line instead:
      `shutter` ends exactly at 50%, `kif.` starts exactly at 50%. They meet
