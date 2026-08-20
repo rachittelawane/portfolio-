@@ -42,7 +42,7 @@ window.SK_WORKS = [
     year: '2025',
     meta: 'REEL · 33K PLAYS · INSTAGRAM',
     img: 'js/Screenshot_2026-08-20-05-44-45-13_8b1cfbb769bd52fc36fa25a4fcc64305.jpg',
-    vid: 'js/VID_20260616_235055.mp4',
+    vid: 'js/VID_20260616_235055_1.mp4',
     vertical: false
   }
 ];
